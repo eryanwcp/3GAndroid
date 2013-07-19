@@ -1,0 +1,7 @@
+<resources>
+
+    <style name="CustomTheme" parent="android:Theme.Light">
+        <item name="android:windowNoTitle">false</item>
+    </style>
+
+</resources>

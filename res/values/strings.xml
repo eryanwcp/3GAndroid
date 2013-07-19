@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, MainActivity,I am Eryan!</string>
+    <string name="app_name">3GAndroid</string>
+    <string name="net_err_title">网络异常</string>
+    <string name="net_err_info">网络异常，请检查网络或退出应用</string>
+    <string name="exit_app">退出</string>
+    <string name="net_setting">网络设置</string>
+    <string name="app_exit_ok">确定</string>
+    <string name="app_exit_cancle">取消</string>
+    <string name="sms_title">短信发送器</string>
+    <string name="sms_phoneNumber_hint">请输入手机号码…</string>
+    <string name="sms_mseeage_hint">请输入短信内容…</string>
+    <string name="sms_send">发送</string>
+    <string name="sms_phoneNumber_isempty">手机号码不能为空！</string>
+    <string name="sms_send_success">发送成功！</string>
+    <string name="sms_dialog_title">提示！</string>
+    <string name="ok">确定</string>
+    <string name="phone_title">电话拨号器</string>
+    <string name="phone_call">拨打</string>
+    <string name="phone_phoneNumber_hint">请输入手机号 …</string>
+    <string name="phone_link">网址：http://www.google.com\n\n\n电话：15879034026\n\n\nemail：eryanwcp@gmail.com</string>
+    <string name="uihtml_title">使用html页面布局</string>
+    <string name="login_username_hint">请输入登录用户名…</string>
+    <string name="login_password_hint">请输入登录密码…</string>
+    <string name="login_ok">登录</string>
+    <string name="login_username_isempty">用户名不能为空！</string>
+    <string name="login_password_isempty">密码不能为空！</string>
+    <string name="login_title">用户登录</string>
+    <string name="mobile_phoneNumber">手机号</string>
+    <string name="mobile_query">查询</string>
+    <string name="mobilecode_title">手机号归属地查询</string>
+    <string name="notificationicon_title">获取联系人数量，显示在icon</string>
+    <string name="currentlocation_lookmap">查看地图</string>
+    <string name="title_activity_mt">图片获取</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+</resources>
